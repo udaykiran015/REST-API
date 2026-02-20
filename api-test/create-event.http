@@ -5,5 +5,5 @@ Content-Type:application/json
     "name":"Uday",
     "description":"A test event",
     "location":"kolkata",
-    "datetime":"2025-02-24"
+    "dateTime":"2025-02-24T00:00:00Z"
 }
